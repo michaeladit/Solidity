@@ -4,10 +4,15 @@ Solidity is a statically-typed curly-braces programming language designed for de
 Features:
 
 Solidity is a statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.
+
 Solidity is a statically-typed curly-braces programming language designed for developing smart contracts that run on the Ethereum Virtual Machine.
+
 Smart contracts are programs that are executed inside a peer-to-peer network where nobody has special authority over the execution.
+
 When deploying contracts, you should use the latest released version of Solidity.
+
 Allows more flexible configuration of the SMTChecker and fixes a bug in the Solidity ABI decoder v2.
+
 Contribute towards enhancing Solidity by sharing your opinion in the language design discussions.
 
 
